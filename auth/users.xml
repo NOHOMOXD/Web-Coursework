@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <email>admin</email>
+        <password>12345</password>
+    </user>
+    <user>
+        <email>putin</email>
+        <password>pidr</password>
+    </user>
+<user>
+<name>Иван</name>
+<lastname>Бурундуков</lastname>
+<phonenumber>+79117626145</phonenumber>
+<adress/><email>ivanbur@gmail.com</email>
+<password>12345</password>
+</user>
+<user><name>Лидия</name><lastname>Лопарева</lastname><phonenumber> 79818191337</phonenumber><adress/><email>trautwane@,gmail.com</email><password>12345</password></user></users>
